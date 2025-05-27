@@ -369,6 +369,9 @@ form {
     text-align: center;
     color: black;
   }
+  footer{
+    background-color:black;
+  }
   .center {
     font-size: 0.7rem;
   }
