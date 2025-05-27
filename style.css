@@ -369,11 +369,9 @@ form {
     text-align: center;
     color: black;
   }
-  footer{
-    background-color:red;
-  }
   .center {
     font-size: 0.7rem;
+    background-color: black;
   }
   .submit {
     cursor: pointer;
